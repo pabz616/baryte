@@ -1,0 +1,24 @@
+{
+  "name": "baryte",
+  "version": "1.0.0",
+  "description": "``` https://nightwatchjs.org/ ``` ## What is nightwatch ``` Nightwatch.js is an automated testing framework for web applications and websites, written in Node.js and using the W3C WebDriver API (formerly Selenium WebDriver). ``` ## Requirements ``` node ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pabz616/baryte.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pabz616/baryte/issues"
+  },
+  "homepage": "https://github.com/pabz616/baryte#readme",
+  "devDependencies": {
+    "chromedriver": "^78.0.1",
+    "nightwatch": "^1.2.4"
+  }
+}
