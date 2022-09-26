@@ -19,6 +19,6 @@
   "homepage": "https://github.com/pabz616/baryte#readme",
   "devDependencies": {
     "chromedriver": "^78.0.1",
-    "nightwatch": "^1.2.4"
+    "nightwatch": "^1.7.13"
   }
 }
